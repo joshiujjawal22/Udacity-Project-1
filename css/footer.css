@@ -1,0 +1,14 @@
+footer {
+  grid-area: ft;
+  height: 40px;
+  background-color: #bdc3c7;
+  padding: 10px;
+  text-align: center;
+}
+.fab{
+  padding: 5px;
+  color: #fffaf0
+}
+.fab:hover{
+	color: #c0392b;
+}
